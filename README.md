@@ -16,8 +16,8 @@ Skills: c, c#, python, 3d/pcb/compiler design
 
 ## Find me around the web 🌎: <a href="http://kru.run/">kru.run</a>
 - Learning in public on <a href="https://www.twitch.tv/ezkru">Twitch</a> or <a href="https://www.youtube.com/channel/UCf5C377TxaPwyBIPnU76f4g">youtube</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://twitter.com/Kru___"> twitter</a> 🏓
-- Sharing updates on <a href="https://www.instagram.com/kruwertz">Instagram</a> 💼
+- Interacting with people <a href="https://twitter.com/Kru___"> twitter</a> 🏓
+- Sharing Life on <a href="https://www.instagram.com/kruwertz">Instagram</a> 💼
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MaxKru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/maxkru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@MaxKru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Kru___)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17992559/krukrukrukru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](Kru.run)  
 
