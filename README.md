@@ -1,6 +1,5 @@
 ### Hi Im Max 🐱‍👤
 
-![](https://raw.githubusercontent.com/MaxKru/MaxKru/main/banner%20github.PNG)
 
 im a Studend at the RAK -Rheinische Akademie- in colonge
 interested in AI, ML, Robotics, Rc & Race cars, Space and thought experiments.
