@@ -6,7 +6,7 @@ interested in AI, ML, Robotics, Rc & Race cars, Space and thought experiments.
 
 Free Speech absolutist
 
-Skills: none, null, nada and a littlebit of c, c#, python, 3d/pcb/compiler design
+Skills: none, null, nada and a littlebit of c, c#, python, html 3d/pcb/compiler design
 
 - 🔭 I’m currently working on an Autonomous Rc car 
 - 🌱 I’m currently learning python and about ai in general 
