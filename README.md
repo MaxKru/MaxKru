@@ -10,7 +10,7 @@ Skills: none, null, nada and a littlebit of c, c#, python, html 3d/pcb/compiler 
 
 - 🔭 I’m currently working on an Autonomous Rc car 
 - 🌱 I’m currently learning python and about ai in general 
-- 📫 How to reach me: marcel-engelbrecht@web.de 
+- 📫 How to reach me: Private messages are usualy the way to go
 
 
 ## Find me around the web 🌎: <a href="http://kru.run/">kru.run</a>
