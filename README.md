@@ -12,6 +12,7 @@ Skills: none, null, nada and a littlebit of c, c#, python, html 3d/pcb/compiler 
 - 🌱 I’m currently learning python and about ai in general 
 - 📫 How to reach me: Private messages are usualy the way to go
 
+im dumb enough to screw it up but barely smart enough to fix it
 
 ## Find me around the web 🌎: <a href="http://kru.run/">kru.run</a>
 - Learning in public on <a href="https://www.twitch.tv/ezkru">Twitch</a> or <a href="https://www.youtube.com/channel/UCf5C377TxaPwyBIPnU76f4g">youtube</a> 📹 ✍🏾
